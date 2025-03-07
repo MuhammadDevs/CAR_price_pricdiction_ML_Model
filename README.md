@@ -2,15 +2,6 @@
 
 This project aims to predict car prices using a linear regression model. The dataset used contains information about various cars, including their features such as year, kilometers driven, fuel type, seller type, transmission type, and more. The goal is to build a model that can accurately predict the selling price of a car based on these features.
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 The project involves the following steps:
